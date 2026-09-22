@@ -1,3 +1,5 @@
+# Day 1 - Variables and Data Types:
+
 name = "Kusum"
 age = 23
 height = 5.2
