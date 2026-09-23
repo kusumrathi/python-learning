@@ -1,0 +1,12 @@
+# Day 3 - Input and Output
+
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+
+print("Hello,", name)
+print("You are", age, "years old.")
+
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+
+print("Sum:", num1 + num2)
